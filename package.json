@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/Jellyvision/lateralus-components#readme",
   "dependencies": {
-    "lateralus": "0.9.3",
+    "lateralus": "~0.10.0",
     "jsoneditor": "~4.1.3"
   }
 }
